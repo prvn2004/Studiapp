@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Insurance Exam</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="sign_in">SIGN IN</string>
+    <string name="logo">Logo</string>
+    <string name="client_id">234679819456-goode4im7j9ohtrkb7e9q01bqbdrt2va.apps.googleusercontent.com</string>
+    <string name="terms_and_conditions">Terms and Conditions</string>
+    <string name="privacy_policy">Privacy Policy</string>
+
+</resources>

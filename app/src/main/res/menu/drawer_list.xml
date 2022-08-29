@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/myProfile"
+        android:icon="@drawable/main_profile_logo"
+        android:title="My Account" />
+    <item
+        android:id="@+id/share"
+        android:icon="@drawable/share_logo"
+        android:title="Share App" />
+
+    <item
+        android:id="@+id/report"
+        android:icon="@drawable/report_logo"
+        android:title="Report Issue" />
+    <item
+        android:id="@+id/signOut"
+        android:icon="@drawable/signout_logo"
+        android:title="Sign Out" />
+
+</menu>

@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.drawerlayout.widget.DrawerLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/drawerLayout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <androidx.constraintlayout.widget.ConstraintLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <androidx.appcompat.widget.Toolbar
+                android:id="@+id/toolbar"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="#C3E3DD"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent">
+
+                <ImageView
+                    android:id="@+id/three_lines"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerInParent="true"
+                    android:src="@drawable/nav_logo" />
+                <ImageView
+                    android:id="@+id/share_app"
+                    android:layout_width="30dp"
+                    android:layout_height="30dp"
+                    android:layout_marginTop="16dp"
+                    android:layout_gravity="right"
+                    android:layout_marginEnd="16dp"
+                    app:layout_constraintEnd_toEndOf="parent"
+                    app:layout_constraintTop_toTopOf="parent"
+                    app:srcCompat="@drawable/ic_baseline_share_24" />
+            </androidx.appcompat.widget.Toolbar>
+
+            <ImageView
+                android:id="@+id/imageView2"
+                android:layout_width="match_parent"
+                android:layout_height="200dp"
+                android:scaleType="fitXY"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/toolbar"
+                app:srcCompat="@drawable/back_logo" />
+
+            <TextView
+                android:id="@+id/nameText"
+                android:layout_width="wrap_content"
+                android:maxWidth="300dp"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="4dp"
+                android:gravity="center"
+                android:text="Hey Praveen kumar"
+                android:textColor="#FC427B"
+                android:textSize="30sp"
+                android:textStyle="bold"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/toolbar" />
+
+            <TextView
+                android:id="@+id/EnotesText"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="8dp"
+                android:gravity="center"
+                android:text="Notes"
+                android:textColor="@color/Black"
+                android:textSize="15sp"
+                app:layout_constraintEnd_toEndOf="@+id/EnotesButton"
+                app:layout_constraintHorizontal_bias="0.46"
+                app:layout_constraintStart_toStartOf="@+id/EnotesButton"
+                app:layout_constraintTop_toBottomOf="@+id/EnotesButton" />
+
+            <TextView
+                android:id="@+id/SyllabusText"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:text="Syllabus"
+                android:textColor="@color/Black"
+                android:textSize="15sp"
+                app:layout_constraintBottom_toBottomOf="@+id/EnotesText"
+                app:layout_constraintEnd_toEndOf="@+id/SyllabusButton"
+                app:layout_constraintStart_toStartOf="@+id/SyllabusButton"
+                app:layout_constraintTop_toTopOf="@+id/EnotesText" />
+
+            <TextView
+                android:id="@+id/textView3"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:text="Welcome Back!"
+                android:textColor="#58B19F"
+                android:textSize="18sp"
+                app:layout_constraintEnd_toEndOf="@+id/nameText"
+                app:layout_constraintStart_toStartOf="@+id/nameText"
+                app:layout_constraintTop_toBottomOf="@+id/nameText" />
+
+            <ImageButton
+                android:id="@+id/EnotesButton"
+                android:layout_width="100sp"
+                android:layout_height="110sp"
+                android:layout_marginTop="56dp"
+                android:background="@drawable/home_button_rounded_back"
+                android:backgroundTint="#F3A14D"
+                android:elevation="5dp"
+                android:scaleType="centerInside"
+                android:src="@drawable/notebook_logo"
+                android:text="Button"
+                app:layout_constraintEnd_toEndOf="@+id/button3"
+                app:layout_constraintHorizontal_bias="0.0"
+                app:layout_constraintStart_toStartOf="@+id/button3"
+                app:layout_constraintTop_toBottomOf="@+id/button3" />
+
+            <ImageButton
+                android:id="@+id/SyllabusButton"
+                android:layout_width="100sp"
+                android:layout_height="110sp"
+                android:background="@drawable/home_button_rounded_back"
+                android:backgroundTint="#63CBC2"
+                android:elevation="5dp"
+                android:scaleType="centerInside"
+                android:src="@drawable/syllabus_logo"
+                android:text="Button"
+
+                app:layout_constraintBottom_toBottomOf="@+id/EnotesButton"
+                app:layout_constraintEnd_toEndOf="@+id/button4"
+                app:layout_constraintHorizontal_bias="0.154"
+                app:layout_constraintStart_toStartOf="@+id/button4"
+                app:layout_constraintTop_toTopOf="@+id/EnotesButton"
+                app:layout_constraintVertical_bias="0.0" />
+
+            <ImageButton
+                android:id="@+id/button3"
+                android:layout_width="100dp"
+                android:layout_height="110dp"
+                android:layout_marginStart="44dp"
+                android:layout_marginTop="24dp"
+                android:background="@drawable/home_button_rounded_back"
+                android:backgroundTint="#EAA885"
+                android:elevation="5dp"
+                android:scaleType="centerInside"
+                android:src="@drawable/mocktest_logo"
+                android:text="Button"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/imageView2" />
+
+            <TextView
+                android:id="@+id/LiveTestText"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:text="Live Test"
+                android:textColor="@color/Black"
+                android:textSize="15sp"
+                app:layout_constraintBottom_toBottomOf="@+id/MockTestText"
+                app:layout_constraintEnd_toEndOf="@+id/button4"
+                app:layout_constraintHorizontal_bias="0.578"
+                app:layout_constraintStart_toStartOf="@+id/button4"
+                app:layout_constraintTop_toTopOf="@+id/MockTestText"
+                app:layout_constraintVertical_bias="0.0" />
+
+            <TextView
+                android:id="@+id/PerformanceText"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:text="Report"
+                android:textColor="@color/Black"
+                android:textSize="15sp"
+                app:layout_constraintBottom_toBottomOf="@+id/LiveTestText"
+                app:layout_constraintEnd_toEndOf="@+id/performanceButton"
+                app:layout_constraintHorizontal_bias="0.642"
+                app:layout_constraintStart_toStartOf="@+id/performanceButton"
+                app:layout_constraintTop_toTopOf="@+id/LiveTestText"
+                app:layout_constraintVertical_bias="1.0" />
+
+            <ImageButton
+                android:id="@+id/performanceButton"
+                android:layout_width="100sp"
+                android:layout_height="110dp"
+                android:background="@drawable/home_button_rounded_back"
+                android:backgroundTint="#89AE94"
+                android:elevation="5dp"
+                android:scaleType="centerInside"
+                android:src="@drawable/performance_logo"
+                android:text="Button"
+                app:layout_constraintBottom_toBottomOf="@+id/button4"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintHorizontal_bias="0.629"
+                app:layout_constraintStart_toEndOf="@+id/button4"
+                app:layout_constraintTop_toTopOf="@+id/button4"
+                app:layout_constraintVertical_bias="0.0" />
+
+            <ImageButton
+                android:id="@+id/button4"
+                android:layout_width="100dp"
+                android:layout_height="110dp"
+                android:background="@drawable/home_button_rounded_back"
+                android:backgroundTint="#B16A94"
+                android:elevation="5dp"
+                android:scaleType="centerInside"
+                android:src="@drawable/livetest_logo"
+                android:text="Button"
+                app:layout_constraintBottom_toBottomOf="@+id/button3"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintHorizontal_bias="0.549"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="@+id/button3"
+                app:layout_constraintVertical_bias="0.0" />
+
+            <TextView
+                android:id="@+id/MockTestText"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="16dp"
+                android:gravity="center"
+                android:text="Practise Test"
+                android:textColor="@color/Black"
+                android:textSize="15sp"
+                app:layout_constraintEnd_toEndOf="@+id/button3"
+                app:layout_constraintHorizontal_bias="0.523"
+                app:layout_constraintStart_toStartOf="@+id/button3"
+                app:layout_constraintTop_toBottomOf="@+id/button3" />
+
+        </androidx.constraintlayout.widget.ConstraintLayout>
+    </ScrollView>
+
+    <com.google.android.material.navigation.NavigationView
+        android:id="@+id/navView"
+        android:layout_width="350dp"
+        android:layout_height="match_parent"
+        android:layout_gravity="start"
+        app:headerLayout="@layout/nav_header"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:menu="@menu/drawer_list" />
+
+
+</androidx.drawerlayout.widget.DrawerLayout>

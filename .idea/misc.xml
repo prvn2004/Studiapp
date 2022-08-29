@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/prave/Desktop/InsuranceSurveyorExam/app/src/main/res/drawable-v24/edittext_rounded.xml" value="0.2025" />
+        <entry key="..\:/Users/prave/Desktop/InsuranceSurveyorExam/app/src/main/res/drawable/complete_rounded_background.xml" value="0.129" />
+        <entry key="..\:/Users/prave/Desktop/InsuranceSurveyorExam/app/src/main/res/drawable/complete_rounded_blue_background.xml" value="0.221" />
+        <entry key="..\:/Users/prave/Desktop/InsuranceSurveyorExam/app/src/main/res/drawable/complete_rounded_green_background.xml" value="0.2445" />
+        <entry key="..\:/Users/prave/Desktop/InsuranceSurveyorExam/app/src/main/res/drawable/complete_rounded_red_background.xml" value="0.221" />
+        <entry key="..\:/Users/prave/Desktop/InsuranceSurveyorExam/app/src/main/res/drawable/container_background.xml" value="0.129" />
+        <entry key="..\:/Users/prave/Desktop/InsuranceSurveyorExam/app/src/main/res/drawable/enotes_number_rounded.xml" value="0.2135" />
+        <entry key="..\:/Users/prave/Desktop/InsuranceSurveyorExam/app/src/main/res/drawable/green_background.xml" value="0.129" />
+        <entry key="..\:/Users/prave/Desktop/InsuranceSurveyorExam/app/src/main/res/drawable/home_button_rounded_back.xml" value="0.176" />
+        <entry key="..\:/Users/prave/Desktop/InsuranceSurveyorExam/app/src/main/res/drawable/ic_baseline_arrow_back_24.xml" value="0.2445" />
+        <entry key="..\:/Users/prave/Desktop/InsuranceSurveyorExam/app/src/main/res/drawable/red_background.xml" value="0.1815" />
+        <entry key="..\:/Users/prave/Desktop/InsuranceSurveyorExam/app/src/main/res/drawable/white_background.xml" value="0.129" />
+        <entry key="..\:/Users/prave/Desktop/InsuranceSurveyorExam/app/src/main/res/layout/activity_enotes.xml" value="0.234375" />
+        <entry key="..\:/Users/prave/Desktop/InsuranceSurveyorExam/app/src/main/res/layout/activity_home.xml" value="0.12" />
+        <entry key="..\:/Users/prave/Desktop/InsuranceSurveyorExam/app/src/main/res/layout/activity_login.xml" value="0.2296875" />
+        <entry key="..\:/Users/prave/Desktop/InsuranceSurveyorExam/app/src/main/res/layout/activity_main.xml" value="0.2265625" />
+        <entry key="..\:/Users/prave/Desktop/InsuranceSurveyorExam/app/src/main/res/layout/activity_mock_test.xml" value="0.234375" />
+        <entry key="..\:/Users/prave/Desktop/InsuranceSurveyorExam/app/src/main/res/layout/activity_splash_screen.xml" value="0.136" />
+        <entry key="..\:/Users/prave/Desktop/InsuranceSurveyorExam/app/src/main/res/layout/enotes_numbers_list_item.xml" value="0.2" />
+        <entry key="..\:/Users/prave/Desktop/InsuranceSurveyorExam/app/src/main/res/layout/fragment_enotes.xml" value="0.1" />
+        <entry key="..\:/Users/prave/Desktop/InsuranceSurveyorExam/app/src/main/res/layout/fragment_enotes_overview.xml" value="0.152" />
+        <entry key="..\:/Users/prave/Desktop/InsuranceSurveyorExam/app/src/main/res/layout/fragment_login.xml" value="0.2" />
+        <entry key="..\:/Users/prave/Desktop/InsuranceSurveyorExam/app/src/main/res/layout/fragment_mock_test_overview.xml" value="0.264" />
+        <entry key="..\:/Users/prave/Desktop/InsuranceSurveyorExam/app/src/main/res/layout/fragment_mocktest.xml" value="0.2" />
+        <entry key="..\:/Users/prave/Desktop/InsuranceSurveyorExam/app/src/main/res/layout/fragment_question.xml" value="0.176" />
+        <entry key="..\:/Users/prave/Desktop/InsuranceSurveyorExam/app/src/main/res/layout/fragment_question_list.xml" value="0.264" />
+        <entry key="..\:/Users/prave/Desktop/InsuranceSurveyorExam/app/src/main/res/layout/fragment_result.xml" value="0.2" />
+        <entry key="..\:/Users/prave/Desktop/InsuranceSurveyorExam/app/src/main/res/layout/fragment_review.xml" value="0.2" />
+        <entry key="..\:/Users/prave/Desktop/InsuranceSurveyorExam/app/src/main/res/layout/mocktests_numbers_list_item.xml" value="0.4" />
+        <entry key="..\:/Users/prave/Desktop/InsuranceSurveyorExam/app/src/main/res/layout/nav_header.xml" value="0.2" />
+        <entry key="..\:/Users/prave/Desktop/InsuranceSurveyorExam/app/src/main/res/layout/question_list_item.xml" value="0.2" />
+        <entry key="..\:/Users/prave/Desktop/InsuranceSurveyorExam/app/src/main/res/layout/question_number_list_item.xml" value="0.176" />
+        <entry key="..\:/Users/prave/Desktop/InsuranceSurveyorExam/app/src/main/res/menu/drawer_list.xml" value="0.234375" />
+        <entry key="..\:/Users/prave/Desktop/InsuranceSurveyorExam/app/src/main/res/menu/header_layout.xml" value="0.234375" />
+        <entry key="..\:/Users/prave/OneDrive/Desktop/InsuranceSurveyorExam/app/src/main/res/drawable-v24/edittext_rounded.xml" value="0.221" />
+        <entry key="..\:/Users/prave/OneDrive/Desktop/InsuranceSurveyorExam/app/src/main/res/drawable/complete_rounded_background.xml" value="0.1985" />
+        <entry key="..\:/Users/prave/OneDrive/Desktop/InsuranceSurveyorExam/app/src/main/res/drawable/complete_rounded_blue_background.xml" value="0.2065" />
+        <entry key="..\:/Users/prave/OneDrive/Desktop/InsuranceSurveyorExam/app/src/main/res/drawable/container_background.xml" value="0.221" />
+        <entry key="..\:/Users/prave/OneDrive/Desktop/InsuranceSurveyorExam/app/src/main/res/drawable/dashboard_green_background.xml" value="0.221" />
+        <entry key="..\:/Users/prave/OneDrive/Desktop/InsuranceSurveyorExam/app/src/main/res/drawable/dashboard_red_background.xml" value="0.2445" />
+        <entry key="..\:/Users/prave/OneDrive/Desktop/InsuranceSurveyorExam/app/src/main/res/drawable/underline_background.xml" value="0.2065" />
+        <entry key="..\:/Users/prave/OneDrive/Desktop/InsuranceSurveyorExam/app/src/main/res/layout/activity_dashboard.xml" value="0.21458333333333332" />
+        <entry key="..\:/Users/prave/OneDrive/Desktop/InsuranceSurveyorExam/app/src/main/res/layout/activity_home.xml" value="0.264" />
+        <entry key="..\:/Users/prave/OneDrive/Desktop/InsuranceSurveyorExam/app/src/main/res/layout/activity_live_test.xml" value="0.1" />
+        <entry key="..\:/Users/prave/OneDrive/Desktop/InsuranceSurveyorExam/app/src/main/res/layout/activity_login.xml" value="0.21458333333333332" />
+        <entry key="..\:/Users/prave/OneDrive/Desktop/InsuranceSurveyorExam/app/src/main/res/layout/activity_profile.xml" value="0.234375" />
+        <entry key="..\:/Users/prave/OneDrive/Desktop/InsuranceSurveyorExam/app/src/main/res/layout/activity_splash_screen.xml" value="0.176" />
+        <entry key="..\:/Users/prave/OneDrive/Desktop/InsuranceSurveyorExam/app/src/main/res/layout/activity_syllabus.xml" value="0.234375" />
+        <entry key="..\:/Users/prave/OneDrive/Desktop/InsuranceSurveyorExam/app/src/main/res/layout/dashboard_performance_list_item.xml" value="0.4" />
+        <entry key="..\:/Users/prave/OneDrive/Desktop/InsuranceSurveyorExam/app/src/main/res/layout/enotes_numbers_list_item.xml" value="0.2" />
+        <entry key="..\:/Users/prave/OneDrive/Desktop/InsuranceSurveyorExam/app/src/main/res/layout/fragment_dashboard.xml" value="0.264" />
+        <entry key="..\:/Users/prave/OneDrive/Desktop/InsuranceSurveyorExam/app/src/main/res/layout/fragment_enotes.xml" value="0.234375" />
+        <entry key="..\:/Users/prave/OneDrive/Desktop/InsuranceSurveyorExam/app/src/main/res/layout/fragment_enotes_overview.xml" value="0.21458333333333332" />
+        <entry key="..\:/Users/prave/OneDrive/Desktop/InsuranceSurveyorExam/app/src/main/res/layout/fragment_flash.xml" value="0.2" />
+        <entry key="..\:/Users/prave/OneDrive/Desktop/InsuranceSurveyorExam/app/src/main/res/layout/fragment_live_test_main.xml" value="0.176" />
+        <entry key="..\:/Users/prave/OneDrive/Desktop/InsuranceSurveyorExam/app/src/main/res/layout/fragment_login.xml" value="0.176" />
+        <entry key="..\:/Users/prave/OneDrive/Desktop/InsuranceSurveyorExam/app/src/main/res/layout/fragment_mock_test_overview.xml" value="0.234375" />
+        <entry key="..\:/Users/prave/OneDrive/Desktop/InsuranceSurveyorExam/app/src/main/res/layout/fragment_mocktest.xml" value="0.234375" />
+        <entry key="..\:/Users/prave/OneDrive/Desktop/InsuranceSurveyorExam/app/src/main/res/layout/fragment_others_performance.xml" value="0.234375" />
+        <entry key="..\:/Users/prave/OneDrive/Desktop/InsuranceSurveyorExam/app/src/main/res/layout/fragment_past_test.xml" value="0.234375" />
+        <entry key="..\:/Users/prave/OneDrive/Desktop/InsuranceSurveyorExam/app/src/main/res/layout/fragment_past_test_overview.xml" value="0.4" />
+        <entry key="..\:/Users/prave/OneDrive/Desktop/InsuranceSurveyorExam/app/src/main/res/layout/fragment_profile.xml" value="0.264" />
+        <entry key="..\:/Users/prave/OneDrive/Desktop/InsuranceSurveyorExam/app/src/main/res/layout/fragment_question.xml" value="0.6" />
+        <entry key="..\:/Users/prave/OneDrive/Desktop/InsuranceSurveyorExam/app/src/main/res/layout/fragment_question_list.xml" value="0.234375" />
+        <entry key="..\:/Users/prave/OneDrive/Desktop/InsuranceSurveyorExam/app/src/main/res/layout/fragment_result.xml" value="0.234375" />
+        <entry key="..\:/Users/prave/OneDrive/Desktop/InsuranceSurveyorExam/app/src/main/res/layout/fragment_splash.xml" value="0.234375" />
+        <entry key="..\:/Users/prave/OneDrive/Desktop/InsuranceSurveyorExam/app/src/main/res/layout/fragment_syllabus.xml" value="0.21770833333333334" />
+        <entry key="..\:/Users/prave/OneDrive/Desktop/InsuranceSurveyorExam/app/src/main/res/layout/fragment_upcoming_test.xml" value="0.4" />
+        <entry key="..\:/Users/prave/OneDrive/Desktop/InsuranceSurveyorExam/app/src/main/res/layout/fragment_upcoming_test_overview.xml" value="0.264" />
+        <entry key="..\:/Users/prave/OneDrive/Desktop/InsuranceSurveyorExam/app/src/main/res/layout/fragment_upcoming_test_question.xml" value="0.234375" />
+        <entry key="..\:/Users/prave/OneDrive/Desktop/InsuranceSurveyorExam/app/src/main/res/layout/fragment_upcoming_test_result.xml" value="0.234375" />
+        <entry key="..\:/Users/prave/OneDrive/Desktop/InsuranceSurveyorExam/app/src/main/res/layout/fragment_your_perforamance.xml" value="0.4" />
+        <entry key="..\:/Users/prave/OneDrive/Desktop/InsuranceSurveyorExam/app/src/main/res/layout/mocktests_numbers_list_item.xml" value="0.234375" />
+        <entry key="..\:/Users/prave/OneDrive/Desktop/InsuranceSurveyorExam/app/src/main/res/layout/other_performance_list_item.xml" value="0.4" />
+        <entry key="..\:/Users/prave/OneDrive/Desktop/InsuranceSurveyorExam/app/src/main/res/layout/past_test_list_item.xml" value="0.6" />
+        <entry key="..\:/Users/prave/OneDrive/Desktop/InsuranceSurveyorExam/app/src/main/res/layout/popup_window.xml" value="0.264" />
+        <entry key="..\:/Users/prave/OneDrive/Desktop/InsuranceSurveyorExam/app/src/main/res/layout/question_list_item.xml" value="0.234375" />
+        <entry key="..\:/Users/prave/OneDrive/Desktop/InsuranceSurveyorExam/app/src/main/res/layout/question_number_list_item.xml" value="0.234375" />
+        <entry key="..\:/Users/prave/OneDrive/Desktop/InsuranceSurveyorExam/app/src/main/res/layout/syllabus_list_item.xml" value="0.234375" />
+        <entry key="..\:/Users/prave/OneDrive/Desktop/InsuranceSurveyorExam/app/src/main/res/layout/upcoming_test_list_item.xml" value="0.536" />
+        <entry key="..\:/Users/prave/OneDrive/Desktop/InsuranceSurveyorExam/app/src/main/res/menu/drawer_list.xml" value="0.234375" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
