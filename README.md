@@ -1,5 +1,5 @@
 
-# Quiz app
+# Studiapp
 
 This app contains E-notes, mock test, live test and many more features.
 
