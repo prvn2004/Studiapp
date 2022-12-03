@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.project.insurancesurveyorexam">
+    package="com.project.Studiapp">
 
     <application
         android:allowBackup="true"
@@ -10,39 +10,39 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.InsuranceSurveyorExam">
         <activity
-            android:name=".Activities.LiveTestActivity"
+            android:name="com.project.Studiapp.Activities.LiveTestActivity"
             android:screenOrientation="portrait"
             android:exported="false" />
         <activity
-            android:name=".Activities.SyllabusActivity"
+            android:name="com.project.Studiapp.Activities.SyllabusActivity"
             android:exported="false"
             android:screenOrientation="portrait" />
         <activity
-            android:name=".Activities.ProfileActivity"
+            android:name="com.project.Studiapp.Activities.ProfileActivity"
             android:exported="false"
             android:screenOrientation="portrait" />
         <activity
-            android:name=".Activities.DashboardActivity"
+            android:name="com.project.Studiapp.Activities.DashboardActivity"
             android:exported="false"
             android:screenOrientation="portrait" />
         <activity
-            android:name=".Activities.MockTestActivity"
+            android:name="com.project.Studiapp.Activities.MockTestActivity"
             android:exported="false"
             android:screenOrientation="portrait" />
         <activity
-            android:name=".Activities.EnotesActivity"
+            android:name="com.project.Studiapp.Activities.EnotesActivity"
             android:exported="false"
             android:screenOrientation="portrait" />
         <activity
-            android:name=".Activities.HomeActivity"
+            android:name="com.project.Studiapp.Activities.HomeActivity"
             android:exported="false"
             android:screenOrientation="portrait" />
         <activity
-            android:name=".Activities.LoginActivity"
+            android:name="com.project.Studiapp.Activities.LoginActivity"
             android:exported="false"
             android:screenOrientation="portrait" />
         <activity
-            android:name=".Activities.SplashScreen"
+            android:name="com.project.Studiapp.Activities.SplashScreen"
             android:exported="true"
             android:screenOrientation="portrait">
             <intent-filter>
@@ -52,7 +52,7 @@
             </intent-filter>
         </activity>
         <activity
-            android:name=".MainActivity"
+            android:name="com.project.Studiapp.MainActivity"
             android:exported="false"
             android:screenOrientation="portrait" />
     </application>

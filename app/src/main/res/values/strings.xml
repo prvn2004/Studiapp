@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Insurance Exam</string>
+    <string name="app_name">Studiapp</string>
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
     <string name="sign_in">SIGN IN</string>
